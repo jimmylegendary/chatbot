@@ -1,0 +1,4 @@
+{
+	input: {{inp_userPrompt.text}},
+	history: {{chat.history}}
+}

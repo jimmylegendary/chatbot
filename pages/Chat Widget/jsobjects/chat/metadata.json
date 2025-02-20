@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "67b6c753cedff3233544ee77_0f7ebe2c-c4a0-4bb7-a290-64c11640cfd1",
+  "id": "Chat Widget_chat",
+  "unpublishedCollection": {
+    "name": "chat",
+    "pageId": "Chat Widget",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "appname",
+        "value": "\"appsmith-chat-widget\""
+      },
+      {
+        "name": "maxResponses",
+        "value": "30"
+      },
+      {
+        "name": "history",
+        "value": "[{\n  role: \"CHATBOT\",\n  message: \"토론 주제를 입력해 주세요\"\n}]"
+      },
+      {
+        "name": "openAIapiKey",
+        "value": "''"
+      },
+      {
+        "name": "serpApiKey",
+        "value": "''"
+      }
+    ]
+  }
+}
